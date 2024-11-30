@@ -372,11 +372,7 @@
     "src": "resources/js/setup/setup.js"
   },
   "resources/sass/app.scss": {
-<<<<<<< HEAD
     "file": "assets/app-039bd735.css",
-=======
-    "file": "assets/app-9454bf28.css",
->>>>>>> v5-develop
     "isEntry": true,
     "src": "resources/sass/app.scss"
   }
